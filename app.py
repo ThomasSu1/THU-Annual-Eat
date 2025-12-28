@@ -4,7 +4,6 @@ THU Annual Eat Web UI - 贤狼赫萝的年度干饭账本
 基于 Streamlit 的清华大学校园卡消费数据可视化工具。
 包含自动深色模式修复、智能充值过滤和多维度数据图表。
 
-Author: [Your Name/GitHub ID]
 Theme: Spice and Wolf (Holo)
 """
 
